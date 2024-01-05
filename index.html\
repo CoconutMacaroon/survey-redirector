@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Survey Redirector</title>
+    <script>
+      const options = Math.random() < 0.5;
+      if (options == true) {
+        window.location.replace("https://forms.office.com/r/7EwzVRWBpE");
+      } else {
+        window.location.replace("https://forms.office.com/r/E7ZQ4A3yDE");
+      }
+    </script>
+  </head>
+  <body></body>
+</html>
